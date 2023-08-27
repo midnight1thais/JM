@@ -1,5 +1,5 @@
-create database gravida;
-use gravida;
+create database gestante;
+use gestante;
 
 create table cadastro (
 nome varchar(255) not null,
